@@ -26,3 +26,8 @@ NIST CSF Framework, Cyber Kill Chain, ISO 27001, MITRE ATT&CK
 C#, C++, Python, T-SQL, Powershell, Bash
 ### Autres
 Office365, Gestion d’Incidents, MSSQLServer (6.5 à 2019)
+
+## Evenements (participant)
+BSides Montreal (Septembre 2023)
+HackFest (Levis, Octobre 2023)
+
