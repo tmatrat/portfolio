@@ -1,5 +1,5 @@
 # Portfolio de Thierry Matrat
-<a href="www.linkedin.com/in/thierrymatrat"></a>
+<a href="https://www.linkedin.com/in/thierrymatrat"></a>
 
 [Introduction]
 
