@@ -8,7 +8,7 @@ Après une carrière enrichissante de plus de 20 ans en tant qu’administrateur
 ## Compétences
 
 ### Frameworks et Standards
-
+NIST CSF Framework, Cyber Kill Chain, ISO 27001, MITRE ATT&CK
 
 ### Red Team
 |            Competence                          |             Projet             |
